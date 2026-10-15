@@ -1,6 +1,4 @@
 # hey, i'm yandel polanco
-
-## about me
 i'm currently a 3rd year cs student @ UNC Chapel Hill. 
 i spend a ton of time building projects, studying for my classes, and participating in my community to solve tough problems.
 
